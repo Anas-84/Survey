@@ -1,0 +1,2 @@
+drop table survey
+    GO
